@@ -1,4 +1,4 @@
-# README: Temas da Aula - Áreas da Computação
+# Áreas da Computação
 
 Este repositório contém os principais tópicos abordados em uma aula de introdução às diversas áreas da computação. O conteúdo abrange desde os conceitos fundamentais da arquitetura de sistemas até áreas mais avançadas, como inteligência artificial, computação paralela e sistemas distribuídos. A seguir, são descritas as áreas e seus principais conceitos.
 
