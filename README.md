@@ -91,6 +91,9 @@ Este repositório contém os principais tópicos abordados em uma aula de introd
 ### 22. **Sistemas Embarcados**
    - Sistemas computacionais dedicados a realizar funções específicas dentro de dispositivos, como automóveis, aparelhos domésticos e dispositivos móveis.
    - Estuda o design de hardware e software para ambientes com restrições de recursos.
+### 23. Qualidade de Software
+
+### 24. Segurança da Informação
 
 ---
 
