@@ -94,9 +94,9 @@ Este repositório contém os principais tópicos abordados em uma aula de introd
 ### 23. Qualidade de Software
 
 ### 24. Segurança da Informação
-### 24. Tecnologia da Informação
-### 25. Design de Interação (UX/UI)
-
+### 25. Tecnologia da Informação
+### 26. Design de Interação (UX/UI)
+### 27. automação e robotica
 ---
 
 ## Conclusão
