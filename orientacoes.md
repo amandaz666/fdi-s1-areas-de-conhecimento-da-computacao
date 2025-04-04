@@ -1,4 +1,4 @@
-1.Escolher 1 das grandes áreas de conhecimento (equipes de até 3 alunos)
+1.Escolher 1 das grandes áreas de conhecimento (2 alunos)
 
 2.Pesquisar e apresentar para a turma:
 - Definição e subáreas, se existirem
