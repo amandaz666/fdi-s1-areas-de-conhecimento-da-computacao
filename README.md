@@ -94,6 +94,7 @@ Este repositório contém os principais tópicos abordados em uma aula de introd
 ### 23. Qualidade de Software
 
 ### 24. Segurança da Informação
+### 24. Tecnologia da Informação
 
 ---
 
